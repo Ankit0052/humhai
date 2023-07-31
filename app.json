@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "humhai",
+    "slug": "humhai",
+    "version": "1.0.1",
+    "orientation": "portrait",
+    "icon": "./assets/helpp.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/help..png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "versionCode":2,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.humhai.in"
+    },
+    "web": {
+      "favicon": "./assets/help..png"
+    }
+  }
+}
